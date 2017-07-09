@@ -1,2 +1,6 @@
 <?php 
-echo phpinfo();
+
+$i = 1;
+$j = 2;
+echo $i + $j;
+
