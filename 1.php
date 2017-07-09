@@ -1,2 +1,3 @@
 <?php 
-echo '1 by edit';
+$i = 1;
+echo $i;
